@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+		char item='a';
+		char item1='b';
+		if(item<item1){System.out.println(item+","+item1);}
+		else{System.out.println(item1+","+item);}
+	}
+}
